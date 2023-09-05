@@ -1,0 +1,10 @@
+files:
+  - source: /
+    ignore:
+      - /.idea/
+      - /.vscode/
+      - /Notes/
+      - LangIcon
+      - README
+    translation: '%original_path%'
+    translate_attributes: 0
